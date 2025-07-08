@@ -20,3 +20,7 @@ This is a simple Bash script to monitor key system metrics in real time and outp
    ```bash
    git clone https://github.com/MikeMin32/Server-Performance-Stats-Script.git
    cd Server-Performance-Stats-Script
+
+## Roadmap.sh project
+
+https://roadmap.sh/projects/server-stats
